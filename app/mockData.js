@@ -31,7 +31,7 @@ const Artists = [
   },
   {
     name: "Working",
-    background: "https://www.mx7.com/i/d2b/rLMO0r.jpegg",
+    background: "https://www.mx7.com/i/d2b/rLMO0r.jpeg",
     songs: [
       {
         title: "Firetime",
